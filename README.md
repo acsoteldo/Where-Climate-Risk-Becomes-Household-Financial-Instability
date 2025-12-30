@@ -30,6 +30,11 @@ The analysis will be based on the cleaned master dataset, which has 84 fields, i
 * "nri_eal_total_usd": FEMA NRI expected annual loss (USD), composite.
 * "nfhl_in_floodplain": Boolean: tract intersects FEMA NFHL flood zone polygons.
 
+geographic_note:
+  All analysis is conducted at the census tract level.
+  City and ZIP fields are provided for interpretability.
+  
+
 ## Problem Definition
 Although South Florida is widely recognized as a climate-vulnerable region, climate risk is unevenly distributed across communities. Many households face elevated financial risk due to the combined effects of hazard exposure, limited adaptive capacity, and underlying social vulnerability.
 
