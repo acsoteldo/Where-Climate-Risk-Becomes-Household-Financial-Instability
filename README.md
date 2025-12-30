@@ -13,11 +13,11 @@ Excel, Jupyter, Python, SQL, Tableau
 
 ### Data Sources:
 This analysis integrates the following cleaned and standardized datasets:
-* American Community Survey (ACS) – demographic and socioeconomic characteristics at the census tract level
-* CDC Social Vulnerability Index (SVI) – measures community vulnerability across socioeconomic status, household composition, minority status, and housing/transportation
-* FEMA National Risk Index (NRI) – multi-hazard risk metrics and expected annual loss estimates
-* FEMA National Flood Hazard Layer (NFHL) – spatial floodplain boundaries used to determine physical flood exposure
-* NOAA Billion-Dollar Disasters – historical context on the frequency and cost of extreme climate events
+* American Community Survey (ACS)[^1] – demographic and socioeconomic characteristics at the census tract level
+* CDC Social Vulnerability Index (SVI)[^2] – measures community vulnerability across socioeconomic status, household composition, minority status, and housing/transportation
+* FEMA National Risk Index (NRI)[^3] – multi-hazard risk metrics and expected annual loss estimates
+* FEMA National Flood Hazard Layer (NFHL)[^4] – spatial floodplain boundaries used to determine physical flood exposure
+* NOAA Billion-Dollar Disasters[^5] – historical context on the frequency and cost of extreme climate events
 
 All tract-level datasets are joined using a standardized GEOID, while flood exposure is derived through spatial intersection with FEMA floodplain polygons (see _data/_ for questions).
 
@@ -30,7 +30,7 @@ The analysis will be based on the cleaned master dataset, which has 84 fields, i
 * "nri_eal_total_usd": FEMA NRI expected annual loss (USD), composite.
 * "nfhl_in_floodplain": Boolean: tract intersects FEMA NFHL flood zone polygons.
 
-geographic_note[^1]:
+geographic_note[^6]:
   All analysis is conducted at the census tract level.
   City and ZIP fields are provided for interpretability.
   
@@ -59,7 +59,7 @@ The primary objective of this analysis is to gain a comprehensive understanding 
 * Identify census tracts where climate risk and social vulnerability intersect, highlighting priority areas for equitable climate adaptation, resilience planning, and policy intervention.
 
 ## Review of the Literature
-The level of data science and machine learning talent within an organization positively correlates with the adoption of ML technologies. As highlighted in the LinkedIn article [^2], the modern process industry is driven by big data, which includes vast amounts of structured and unstructured data posing significant challenges in efficient data interpretation and management. National AI adoption trends indicate that sectors with high current AI usage will maintain their lead, while sectors such as Accommodation and Food Services exhibit lower adoption rates [^3]. The BTOS AI findings, consistent with the 2019 Annual Business Survey (ABS), show that sectors with higher adoption rates have more established practices and experienced talent [^3]. In the EdTech industry, machine learning is revolutionizing learning experiences through adaptive learning systems, content recommendation systems, and predictive analytics, contributing to market growth projections by 2027 [^4]. Despite these advancements, CompTIA identifies barriers to AI adoption, including a lack of skilled professionals, unclear ROI metrics, and the complexity of AI systems [^5]. Addressing these barriers through targeted strategies and education can facilitate wider AI and ML adoption, leading to enhanced efficiency and competitiveness in organizations. Consequently, fostering skilled talent within organizations is essential for driving successful ML and AI integration across various industries.
+The level of data science and machine learning talent within an organization positively correlates with the adoption of ML technologies. As highlighted in the LinkedIn article, the modern process industry is driven by big data, which includes vast amounts of structured and unstructured data posing significant challenges in efficient data interpretation and management. National AI adoption trends indicate that sectors with high current AI usage will maintain their lead, while sectors such as Accommodation and Food Services exhibit lower adoption rates. The BTOS AI findings, consistent with the 2019 Annual Business Survey (ABS), show that sectors with higher adoption rates have more established practices and experienced talent. In the EdTech industry, machine learning is revolutionizing learning experiences through adaptive learning systems, content recommendation systems, and predictive analytics, contributing to market growth projections by 2027. Despite these advancements, CompTIA identifies barriers to AI adoption, including a lack of skilled professionals, unclear ROI metrics, and the complexity of AI systems. Addressing these barriers through targeted strategies and education can facilitate wider AI and ML adoption, leading to enhanced efficiency and competitiveness in organizations. Consequently, fostering skilled talent within organizations is essential for driving successful ML and AI integration across various industries.
 
 ## Key Insights
 * Across South Florida census tracts, flooding and hurricanes account for approximately 88% of total expected annual climate-related financial losses, confirming water-related hazards as the dominant driver of household financial risk in the region.
@@ -78,25 +78,20 @@ The level of data science and machine learning talent within an organization pos
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.
 
 ## References
-[^1]: Data Source: Census Tiger
-https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
+[^1]: Data Source: American Community Survey (ACS)
+https://api.census.gov/data/key_signup.html
 
-[^2]: Impact of Machine Learning Across Various Industries
-https://www.linkedin.com/pulse/impact-machine-learning-across-various-industries-thecodework-ja9vc/
-
-[^3]: How Many U.S. Businesses Use Artificial Intelligence?
-https://www.census.gov/library/stories/2023/11/businesses-use-ai.html
-
-[^4]: Top Artificial Intelligence Statistics and Facts for 2024
-https://connect.comptia.org/blog/artificial-intelligence-statistics-facts
-
-[^5]: Data Mining and Analytics in the Process Industry: The Role of Machine Learning
-https://ieeexplore.ieee.org/abstract/document/8051033#full-text-header
-
-
-https://resilience.climate.gov/datasets/FEMA%3A%3Anational-risk-index-census-tracts/about
-https://www.arcgis.com/home/item.html?id=2b245b7f816044d7a779a61a5844be23&sublayer=0 
-https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0209268
+[^2]: Data Source: CDC Social Vulnerability Index (SVI)
 https://svi.cdc.gov/dataDownloads/data-download.html
-api.census.gov/data/key_signup.html
 
+[^3]: Data Source: FEMA National Risk Index (NRI)
+https://resilience.climate.gov/datasets/FEMA%3A%3Anational-risk-index-census-tracts/about
+
+[^4]: Data Source: FEMA National Flood Hazard Layer (NFHL)
+https://www.arcgis.com/home/item.html?id=2b245b7f816044d7a779a61a5844be23&sublayer=0 
+
+[^5]: Data Source: NOAA Billion-Dollar Disasters
+https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0209268
+
+[^6]: Data Source: Census Tiger
+https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
