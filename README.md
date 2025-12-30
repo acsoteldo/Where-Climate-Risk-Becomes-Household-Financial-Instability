@@ -87,3 +87,11 @@ https://connect.comptia.org/blog/artificial-intelligence-statistics-facts
 
 [^5]: Data Mining and Analytics in the Process Industry: The Role of Machine Learning
 https://ieeexplore.ieee.org/abstract/document/8051033#full-text-header
+
+
+https://resilience.climate.gov/datasets/FEMA%3A%3Anational-risk-index-census-tracts/about
+https://www.arcgis.com/home/item.html?id=2b245b7f816044d7a779a61a5844be23&sublayer=0 
+https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0209268
+https://svi.cdc.gov/dataDownloads/data-download.html
+api.census.gov/data/key_signup.html
+
