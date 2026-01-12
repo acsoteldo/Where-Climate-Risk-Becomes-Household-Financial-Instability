@@ -1,5 +1,5 @@
 # Climate Risk Exposure Analysis for Household Financial Stability
-Assess how climate-related hazards expose households to financial instability, framed for wealth risk and policy decision-making.
+Assess how climate-related hazards expose households to financial instability in South Florida Region.
 
 ## Getting Started: 
 1. Report and presentation
