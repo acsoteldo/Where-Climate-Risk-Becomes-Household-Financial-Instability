@@ -61,6 +61,7 @@ The level of data science and machine learning talent within an organization pos
 
 ## Key Insights
 * Across South Florida census tracts, flooding and hurricanes account for approximately 88% of total expected annual climate-related financial losses, confirming water-related hazards as the dominant driver of household financial risk in the region.
+* Lower-income households in Homestead experience the highest uninsured burden under 3–5% income loss conditions.
 
 ### Dashboard
 ![image](https://github.com/acsoteldo/Machine-Learning-Adoption-Across-Industries/assets/76544489/a5f8da18-98a8-490f-9fee-7e0dbdc8aece)
