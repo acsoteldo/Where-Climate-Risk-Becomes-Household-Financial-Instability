@@ -64,7 +64,10 @@ The level of data science and machine learning talent within an organization pos
 * Lower-income households in Homestead experience the highest uninsured burden under 3–5% income loss conditions.
 
 ### Dashboard
-![image](https://github.com/acsoteldo/Machine-Learning-Adoption-Across-Industries/assets/76544489/a5f8da18-98a8-490f-9fee-7e0dbdc8aece)
+<img width="2880" height="1736" alt="Data Project 12 Dec 2025 - Dashboard 1" src="https://github.com/user-attachments/assets/5d4e8910-ae43-4903-bd8f-71e252a29a14" />
+<img width="2880" height="1736" alt="Data Project 12 Dec 2025 - Dashboard 1 2" src="https://github.com/user-attachments/assets/7e3368c1-070b-49c1-969f-cc3f7a02dcce" />
+<img width="2880" height="1740" alt="Data Project 12 Dec 2025 - Dashboard 2" src="https://github.com/user-attachments/assets/e69cde37-99b9-4680-8d6e-0663cf13db9e" />
+
 
 ## Next Steps
 * Design industry-specific workshops to highlight the benefits and applications of machine learning in various sectors.
