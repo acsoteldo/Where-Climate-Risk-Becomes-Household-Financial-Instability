@@ -63,7 +63,7 @@ Recent research shows that climate-related hazards like flooding and hurricanes 
 * Flooding and hurricanes account for approximately 81% of total expected annual climate-related losses across South Florida census tracts, confirming that water-related hazards are the primary drivers of household financial exposure.
 * 71% of census tracts classified as “High” (≥3% income loss) also fall within the top social vulnerability percentile range, demonstrating a strong intersection between climate intensity and limited adaptive capacity.
 * Households earning under $50K experience greater relative income loss compared to households earning above $100K (1.57% vs. 1.05%). This confirms a regressive financial impact structure.
-* The top five cities account for 18% of total climate losses, indicating that financial risk is not isolated to a small number of municipalities but distributed across the broader region.
+* The top five cities account for 19% of total climate losses, indicating that financial risk is not isolated to a small number of municipalities but distributed across the broader region.
 * Several cities exhibit exceptionally high income loss ratios: Canal Point - 11%, Lake Harbor - 10%, Unincorporated MiamiDade - 9%, Unincorporated Monroe - 6%, Big Pine Key - 5%.
 
 ### Dashboard
