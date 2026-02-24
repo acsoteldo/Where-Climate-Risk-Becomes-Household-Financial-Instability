@@ -60,8 +60,11 @@ The primary objective of this analysis is to gain a comprehensive understanding 
 Recent research shows that climate-related hazards like flooding and hurricanes interact with socioeconomic vulnerability to create unequal financial outcomes for households and communities. These studies demonstrate that households with limited financial resources, high debt, or inadequate insurance face much larger economic losses when disasters strike, indicating that understanding physical risk alone is not enough [^7]. Researchers studying social vulnerability indices have found that communities with higher social vulnerability (characterized by poverty, limited ability to adapt, and demographic disadvantages) also tend to show lower resilience and slower recovery after climate events, highlighting the need to integrate social and economic risk indicators into climate assessments [^8]. Systematic reviews of climate inequalities emphasize that unequal access to adaptation and mitigation resources can worsen disparities in climate impacts across neighborhoods and demographic groups, reinforcing the connection between social vulnerability and material losses from climate hazards [^9]. Institutional frameworks for assessing climate-related risk, including physical risk metrics developed by central banks and financial authorities, stress the importance of combining hazard exposure with financial impact indicators to understand how climate risk moves through economic systems and affects household wealth stability [^10]. Together, this body of evidence supports integrated, place-based climate risk assessment approaches that combine hazard exposure, social vulnerability, and financial loss metrics at detailed geographic scales.
 
 ## Key Insights
-* Across South Florida census tracts, flooding and hurricanes account for approximately 88% of total expected annual climate-related financial losses, confirming water-related hazards as the dominant driver of household financial risk in the region.
-* Lower-income households in Homestead experience the highest uninsured burden under 3–5% income loss conditions.
+* Flooding and hurricanes account for approximately 81% of total expected annual climate-related losses across South Florida census tracts, confirming that water-related hazards are the primary drivers of household financial exposure.
+* 71% of census tracts classified as “High” (≥3% income loss) also fall within the top social vulnerability percentile range, demonstrating a strong intersection between climate intensity and limited adaptive capacity.
+* Households earning under $50K experience greater relative income loss compared to households earning above $100K (1.57% vs. 1.05%). This confirms a regressive financial impact structure.
+* The top five cities account for 21% of total uninsured climate losses, indicating that financial risk is not isolated to a small number of municipalities but distributed across the broader region.
+* Several cities exhibit exceptionally high uninsured loss ratios (Unincorporated Broward - 100%, San Castle – 37%, Broadview Park – 35%, Westgate – 33%, Florida City – 30%). These areas represent concentrated financial exposure where a large share of expected loss is not covered by insurance, increasing the risk of long-term household wealth erosion.
 
 ### Dashboard
 <img width="2880" height="1736" alt="Data Project 12 Dec 2025 - Dashboard 1" src="https://github.com/user-attachments/assets/5d4e8910-ae43-4903-bd8f-71e252a29a14" />
@@ -70,11 +73,10 @@ Recent research shows that climate-related hazards like flooding and hurricanes 
 
 
 ## Next Steps
-* Design industry-specific workshops to highlight the benefits and applications of machine learning in various sectors.
-* Organize events that promote collaboration and idea exchange among professionals to accelerate ML adoption within organizations.
-* Provide training programs in machine learning to help professionals enhance their skills, stay current with industry trends, and boost their career prospects.
-* Support regulations that encourage innovation while ensuring privacy, security, and fairness, fostering greater confidence in ML technologies.
-* Continuously use dataset insights to update and improve the educational sessions, ensuring they remain relevant and effective.
+* Develop tract-level policy briefings for county and municipal decision-makers that highlight where severe income loss and high social vulnerability intersect, supporting targeted climate adaptation and resilience funding allocation.
+* Expand the integration of additional datasets (e.g., insurance coverage patterns, rental burden, property value trends) to refine estimates of wealth erosion and displacement risk across vulnerable communities.
+* Support data-informed resilience planning frameworks that prioritize equitable infrastructure upgrades, flood mitigation projects, and community stabilization efforts in high-burden areas.
+* Continuously update the dashboard and analytical models with new federal releases (ACS, FEMA, CDC, NRI) to ensure policymakers and stakeholders have access to current, tract-level climate financial risk insights.
 
 ## Contact
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.
