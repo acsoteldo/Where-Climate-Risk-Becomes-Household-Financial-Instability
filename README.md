@@ -63,13 +63,11 @@ Recent research shows that climate-related hazards like flooding and hurricanes 
 * Flooding and hurricanes account for approximately 81% of total expected annual climate-related losses across South Florida census tracts, confirming that water-related hazards are the primary drivers of household financial exposure.
 * 71% of census tracts classified as “High” (≥3% income loss) also fall within the top social vulnerability percentile range, demonstrating a strong intersection between climate intensity and limited adaptive capacity.
 * Households earning under $50K experience greater relative income loss compared to households earning above $100K (1.57% vs. 1.05%). This confirms a regressive financial impact structure.
-* The top five cities account for 21% of total uninsured climate losses, indicating that financial risk is not isolated to a small number of municipalities but distributed across the broader region.
-* Several cities exhibit exceptionally high uninsured loss ratios (Unincorporated Broward - 100%, San Castle – 37%, Broadview Park – 35%, Westgate – 33%, Florida City – 30%). These areas represent concentrated financial exposure where a large share of expected loss is not covered by insurance, increasing the risk of long-term household wealth erosion.
+* The top five cities account for 18% of total climate losses, indicating that financial risk is not isolated to a small number of municipalities but distributed across the broader region.
+* Several cities exhibit exceptionally high income loss ratios: Canal Point - 11%, Lake Harbor - 10%, Unincorporated MiamiDade - 9%, Unincorporated Monroe - 6%, Big Pine Key - 5%.
 
 ### Dashboard
-<img width="2880" height="1736" alt="Data Project 12 Dec 2025 - Dashboard 1" src="https://github.com/user-attachments/assets/5d4e8910-ae43-4903-bd8f-71e252a29a14" />
-<img width="2880" height="1736" alt="Data Project 12 Dec 2025 - Dashboard 1 2" src="https://github.com/user-attachments/assets/7e3368c1-070b-49c1-969f-cc3f7a02dcce" />
-<img width="2880" height="1740" alt="Data Project 12 Dec 2025 - Dashboard 2" src="https://github.com/user-attachments/assets/e69cde37-99b9-4680-8d6e-0663cf13db9e" />
+
 
 
 ## Next Steps
