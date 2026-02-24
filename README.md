@@ -38,26 +38,26 @@ Although South Florida is widely recognized as a climate-vulnerable region, clim
 
 ### Relevance:
 Understanding how climate-related hazards translate into household financial instability at the census tract level is crucial for several reasons:
-* Policymakers and planners need tract-level insights into where climate hazards intersect with social vulnerability to make informed decisions about climate adaptation investments, land-use planning, and resilience funding allocation.
-* Housing and financial stability stakeholders can use localized risk information to better assess potential wealth loss, housing instability, and displacement risks associated with flooding and extreme weather events.
-* Community advocates and equity-focused organizations may leverage tract-level climate risk data to identify underserved communities facing disproportionate financial impacts and to support targeted resilience and mitigation efforts.
-* Researchers and analysts can use integrated hazard, vulnerability, and exposure data to move beyond regional averages and develop more accurate, equity-centered models of climate risk and household financial outcomes.
+* Policymakers and resilience planners require tract-level evidence to prioritize adaptation investments, infrastructure upgrades, and equitable resilience funding where financial strain is most concentrated.
+* Housing, insurance, and financial stability stakeholders need localized insights into where repeated climate losses may accelerate wealth erosion, increase uninsured burdens, and heighten displacement risks.
+* Equity-focused organizations can use integrated hazard and vulnerability data to identify communities experiencing compounded exposure and limited adaptive capacity.
+* Researchers and analysts benefit from moving beyond regional averages to quantify how expected annual losses, floodplain overlap, and social vulnerability interact to shape household-level climate risk outcomes.
 
 ## Hypothesis
-Households located in census tracts with higher exposure to climate-related hazards (particularly flooding and hurricanes) experience greater financial instability due to elevated expected losses and higher social vulnerability, increasing the risk of wealth erosion and displacement.
+Households located in census tracts with higher exposure to climate-related hazards (particularly flooding and hurricanes) experience greater financial instability due to elevated expected losses and higher social vulnerability, increasing the risk of wealth erosion, uninsured financial burden, and potential displacement.
 
 ## Vision
-To support climate-informed, equity-focused policy decisions by revealing how climate hazards translate into household-level financial and wealth risk at the census tract scale.
+To support climate-informed, equity-focused policy decisions by revealing how climate hazards translate into measurable household-level financial strain and wealth risk at the census tract scale.
 
 ## Objective
-The primary objective of this analysis is to gain a comprehensive understanding of how climate-related hazards in South Florida expose households to financial instability and wealth risk at the census tract level. By integrating multiple federal datasets and examining the interaction between hazard exposure, expected losses, and social vulnerability, this report aims to address the following objectives:
+The primary objective of this analysis is to gain a comprehensive understanding of how climate-related hazards in South Florida expose households to financial instability and wealth risk at the census tract level. By integrating multiple federal datasets and examining the interaction between hazard exposure, expected annual losses, uninsured burden, and social vulnerability, this report aims to address the following objectives:
 * Visualize the spatial distribution of climate hazard exposure and floodplain overlap across South Florida census tracts to identify areas with heightened physical risk.
 * Examine how social vulnerability varies across tracts with differing levels of climate hazard exposure, highlighting communities where limited adaptive capacity may amplify financial impacts.
 * Assess expected annual losses as a proxy for household wealth risk, evaluating how financial exposure differs across tracts facing similar climate hazards.
 * Identify census tracts where climate risk and social vulnerability intersect, highlighting priority areas for equitable climate adaptation, resilience planning, and policy intervention.
 
 ## Review of the Literature
-The level of data science and machine learning talent within an organization positively correlates with the adoption of ML technologies. As highlighted in the LinkedIn article, the modern process industry is driven by big data, which includes vast amounts of structured and unstructured data posing significant challenges in efficient data interpretation and management. National AI adoption trends indicate that sectors with high current AI usage will maintain their lead, while sectors such as Accommodation and Food Services exhibit lower adoption rates. The BTOS AI findings, consistent with the 2019 Annual Business Survey (ABS), show that sectors with higher adoption rates have more established practices and experienced talent. In the EdTech industry, machine learning is revolutionizing learning experiences through adaptive learning systems, content recommendation systems, and predictive analytics, contributing to market growth projections by 2027. Despite these advancements, CompTIA identifies barriers to AI adoption, including a lack of skilled professionals, unclear ROI metrics, and the complexity of AI systems. Addressing these barriers through targeted strategies and education can facilitate wider AI and ML adoption, leading to enhanced efficiency and competitiveness in organizations. Consequently, fostering skilled talent within organizations is essential for driving successful ML and AI integration across various industries.
+Recent research shows that climate-related hazards like flooding and hurricanes interact with socioeconomic vulnerability to create unequal financial outcomes for households and communities. These studies demonstrate that households with limited financial resources, high debt, or inadequate insurance face much larger economic losses when disasters strike, indicating that understanding physical risk alone is not enough [^7]. Researchers studying social vulnerability indices have found that communities with higher social vulnerability (characterized by poverty, limited ability to adapt, and demographic disadvantages) also tend to show lower resilience and slower recovery after climate events, highlighting the need to integrate social and economic risk indicators into climate assessments [^8]. Systematic reviews of climate inequalities emphasize that unequal access to adaptation and mitigation resources can worsen disparities in climate impacts across neighborhoods and demographic groups, reinforcing the connection between social vulnerability and material losses from climate hazards [^9]. Institutional frameworks for assessing climate-related risk, including physical risk metrics developed by central banks and financial authorities, stress the importance of combining hazard exposure with financial impact indicators to understand how climate risk moves through economic systems and affects household wealth stability [^10]. Together, this body of evidence supports integrated, place-based climate risk assessment approaches that combine hazard exposure, social vulnerability, and financial loss metrics at detailed geographic scales.
 
 ## Key Insights
 * Across South Florida census tracts, flooding and hurricanes account for approximately 88% of total expected annual climate-related financial losses, confirming water-related hazards as the dominant driver of household financial risk in the region.
@@ -97,3 +97,15 @@ https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:
 
 [^6]: Data Source: Census Tiger
 https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
+
+[^7]: Household financial vulnerabilities and physical climate risks 
+https://www.bankofcanada.ca/2021/08/staff-analytical-note-2021-19
+
+[^8]: Assessing the Relationship Between Social Vulnerability and Community Resilience to Hazards
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5739329
+
+[^9]: Climate change inequalities
+https://www.sciencedirect.com/science/article/pii/S1462901125000371
+
+[^10]: Leveraging physical climate risk data
+https://www.ngfs.net/system/files/2025-09/NGFS_information%20note_Leveraging%20physical%20climate%20risk%20data.pdf
