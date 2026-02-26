@@ -71,6 +71,9 @@ Recent research shows that climate-related hazards like flooding and hurricanes 
 <img width="2880" height="1730" alt="Data Project 12 Dec 2025 - Dashboard 1 2" src="https://github.com/user-attachments/assets/56082cbf-7d6a-4f11-abb0-d68b83975d25" />
 <img width="2880" height="1728" alt="Data Project 12 Dec 2025 - Dashboard 2" src="https://github.com/user-attachments/assets/c6f5bf00-b2fe-4291-a1b5-b22c039c46f7" />
 
+### Demo
+https://github.com/user-attachments/assets/a88de257-8019-45b1-b7c0-d43285b572fa
+
 ## Next Steps
 * Develop tract-level policy briefings for county and municipal decision-makers that highlight where severe income loss and high social vulnerability intersect, supporting targeted climate adaptation and resilience funding allocation.
 * Expand the integration of additional datasets (e.g., insurance coverage patterns, rental burden, property value trends) to refine estimates of wealth erosion and displacement risk across vulnerable communities.
