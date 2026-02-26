@@ -39,18 +39,18 @@ Although South Florida is widely recognized as a climate-vulnerable region, clim
 ### Relevance:
 Understanding how climate-related hazards translate into household financial instability at the census tract level is crucial for several reasons:
 * Policymakers and resilience planners require tract-level evidence to prioritize adaptation investments, infrastructure upgrades, and equitable resilience funding where financial strain is most concentrated.
-* Housing, insurance, and financial stability stakeholders need localized insights into where repeated climate losses may accelerate wealth erosion, increase uninsured burdens, and heighten displacement risks.
+* Housing, insurance, and financial stability stakeholders need localized insights into where repeated climate losses may accelerate wealth erosion and heighten displacement risks.
 * Equity-focused organizations can use integrated hazard and vulnerability data to identify communities experiencing compounded exposure and limited adaptive capacity.
 * Researchers and analysts benefit from moving beyond regional averages to quantify how expected annual losses, floodplain overlap, and social vulnerability interact to shape household-level climate risk outcomes.
 
 ## Hypothesis
-Households located in census tracts with higher exposure to climate-related hazards (particularly flooding and hurricanes) experience greater financial instability due to elevated expected losses and higher social vulnerability, increasing the risk of wealth erosion, uninsured financial burden, and potential displacement.
+Households located in census tracts with higher exposure to climate-related hazards (particularly flooding and hurricanes) experience greater financial instability due to elevated expected losses and higher social vulnerability, increasing the risk of wealth erosion, and potential displacement.
 
 ## Vision
 To support climate-informed, equity-focused policy decisions by revealing how climate hazards translate into measurable household-level financial strain and wealth risk at the census tract scale.
 
 ## Objective
-The primary objective of this analysis is to gain a comprehensive understanding of how climate-related hazards in South Florida expose households to financial instability and wealth risk at the census tract level. By integrating multiple federal datasets and examining the interaction between hazard exposure, expected annual losses, uninsured burden, and social vulnerability, this report aims to address the following objectives:
+The primary objective of this analysis is to gain a comprehensive understanding of how climate-related hazards in South Florida expose households to financial instability and wealth risk at the census tract level. By integrating multiple federal datasets and examining the interaction between hazard exposure, expected annual losses, and social vulnerability, this report aims to address the following objectives:
 * Visualize the spatial distribution of climate hazard exposure and floodplain overlap across South Florida census tracts to identify areas with heightened physical risk.
 * Examine how social vulnerability varies across tracts with differing levels of climate hazard exposure, highlighting communities where limited adaptive capacity may amplify financial impacts.
 * Assess expected annual losses as a proxy for household wealth risk, evaluating how financial exposure differs across tracts facing similar climate hazards.
