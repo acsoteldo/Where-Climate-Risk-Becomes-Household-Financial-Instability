@@ -21,6 +21,12 @@ This analysis integrates the following cleaned and standardized datasets:
 
 All tract-level datasets are joined using a standardized GEOID, while flood exposure is derived through spatial intersection with FEMA floodplain polygons (see _data/_ for questions).
 
+Files >25MB not uploaded:
+* zipcodes/tl_2025_us_zcta520.shp
+* FEMANationalRiskIndex_dataset.csv
+* ARCGISFloodHazardSouthFlorida_dataset CLEANED.geojson
+* ARCGISFloodHazardSouthFlorida_dataset CLEANED.parquet
+
 The analysis will be based on the cleaned master dataset, which has 84 fields, including:
 * "geoid": 11-digit census tract GEOID (state+county+tract). Join key.
 * "acs_median_hh_income": ACS median household income (USD).
@@ -113,9 +119,3 @@ https://www.sciencedirect.com/science/article/pii/S1462901125000371
 
 [^10]: Leveraging physical climate risk data
 https://www.ngfs.net/system/files/2025-09/NGFS_information%20note_Leveraging%20physical%20climate%20risk%20data.pdf
-
-Files >25MB not uploaded:
-zipcodes/tl_2025_us_zcta520.shp
-FEMANationalRiskIndex_dataset.csv
-ARCGISFloodHazardSouthFlorida_dataset CLEANED.geojson
-ARCGISFloodHazardSouthFlorida_dataset CLEANED.parquet
