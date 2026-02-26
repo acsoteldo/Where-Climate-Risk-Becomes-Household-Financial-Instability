@@ -67,8 +67,9 @@ Recent research shows that climate-related hazards like flooding and hurricanes 
 * Several cities exhibit exceptionally high income loss ratios: Canal Point - 11%, Lake Harbor - 10%, Unincorporated MiamiDade - 9%, Unincorporated Monroe - 6%, Big Pine Key - 5%.
 
 ### Dashboard
-
-
+<img width="2880" height="1730" alt="Data Project 12 Dec 2025 - Dashboard 1" src="https://github.com/user-attachments/assets/b8ee3d28-8fee-40cd-9c5a-2f29ad63fc06" />
+<img width="2880" height="1730" alt="Data Project 12 Dec 2025 - Dashboard 1 2" src="https://github.com/user-attachments/assets/56082cbf-7d6a-4f11-abb0-d68b83975d25" />
+<img width="2880" height="1728" alt="Data Project 12 Dec 2025 - Dashboard 2" src="https://github.com/user-attachments/assets/c6f5bf00-b2fe-4291-a1b5-b22c039c46f7" />
 
 ## Next Steps
 * Develop tract-level policy briefings for county and municipal decision-makers that highlight where severe income loss and high social vulnerability intersect, supporting targeted climate adaptation and resilience funding allocation.
