@@ -21,12 +21,6 @@ This analysis integrates the following cleaned and standardized datasets:
 
 All tract-level datasets are joined using a standardized GEOID, while flood exposure is derived through spatial intersection with FEMA floodplain polygons (see _data/_ for questions).
 
-Files >25MB not uploaded:
-* zipcodes/tl_2025_us_zcta520.shp
-* FEMANationalRiskIndex_dataset.csv
-* ARCGISFloodHazardSouthFlorida_dataset CLEANED.geojson
-* ARCGISFloodHazardSouthFlorida_dataset CLEANED.parquet
-
 The analysis will be based on the cleaned master dataset, which has 84 fields, including:
 * "geoid": 11-digit census tract GEOID (state+county+tract). Join key.
 * "acs_median_hh_income": ACS median household income (USD).
@@ -37,7 +31,12 @@ The analysis will be based on the cleaned master dataset, which has 84 fields, i
 * "nfhl_in_floodplain": Boolean: tract intersects FEMA NFHL flood zone polygons.
 
 Geographic Note: All analysis is conducted at the census tract level. City and ZIP fields are provided for interpretability [^6].
-  
+
+#### Files >25MB not uploaded:
+* zipcodes/tl_2025_us_zcta520.shp
+* FEMANationalRiskIndex_dataset.csv
+* ARCGISFloodHazardSouthFlorida_dataset CLEANED.geojson
+* ARCGISFloodHazardSouthFlorida_dataset CLEANED.parquet
 
 ## Problem Definition
 Although South Florida is widely recognized as a climate-vulnerable region, climate risk is unevenly distributed across communities. Many households face elevated financial risk due to the combined effects of hazard exposure, limited adaptive capacity, and underlying social vulnerability.
